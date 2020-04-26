@@ -2,7 +2,7 @@
   "errors": [],
   "warnings": [],
   "version": "4.42.0",
-  "hash": "7327398eecaf25735323",
+  "hash": "e64d8a22f9c77dc0c0f2",
   "publicPath": "/",
   "outputPath": "/mnt/codebase/chimpoon/public",
   "assetsByChunkName": {
@@ -186,7 +186,7 @@
     },
     {
       "name": "main.js",
-      "size": 1855777,
+      "size": 1855773,
       "chunks": [
         "main"
       ],
