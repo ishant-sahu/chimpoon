@@ -2,7 +2,7 @@
   "errors": [],
   "warnings": [],
   "version": "4.42.0",
-  "hash": "861c97ca3e946e8133e4",
+  "hash": "2ca7b421bbb50c888b22",
   "publicPath": "/chimpoon",
   "outputPath": "/mnt/codebase/chimpoon/public",
   "assetsByChunkName": {
@@ -16,7 +16,7 @@
     ],
     "main": [
       "main.f30e5a78.css",
-      "main.45f26042.js"
+      "main.bf6342f3.js"
     ]
   },
   "assets": [
@@ -181,8 +181,8 @@
       "emitted": false
     },
     {
-      "name": "main.45f26042.js",
-      "size": 288401,
+      "name": "main.bf6342f3.js",
+      "size": 288397,
       "chunks": [
         2
       ],
@@ -361,7 +361,7 @@
       ],
       "assets": [
         "main.f30e5a78.css",
-        "main.45f26042.js"
+        "main.bf6342f3.js"
       ],
       "children": {},
       "childAssets": {}
@@ -374,7 +374,7 @@
       ],
       "assets": [
         "main.f30e5a78.css",
-        "main.45f26042.js"
+        "main.bf6342f3.js"
       ],
       "children": {},
       "childAssets": {}
