@@ -135,7 +135,7 @@
       padding: 0.5rem 5rem 0.5rem 5rem; } }
 
 .styles__header {
-  background: linear-gradient(to bottom right, rgba(72, 72, 212, 0), rgba(241, 104, 104, 0)), url(/header-background.d3fc94a6.jpg) center center no-repeat;
+  background: linear-gradient(to bottom right, rgba(72, 72, 212, 0), rgba(241, 104, 104, 0)), url(header-background.d3fc94a6.jpg) center center no-repeat;
   background-size: cover; }
   .styles__header .styles__headerContent {
     padding-top: 8.5rem;
@@ -409,7 +409,7 @@
 .styles__basic1 {
   padding-top: 6.375rem;
   padding-bottom: 6.875rem;
-  background: url(/video-background.d3fc94a6.jpg) center center no-repeat;
+  background: url(video-background.d3fc94a6.jpg) center center no-repeat;
   background-size: cover; }
   .styles__basic1 .styles__h2 {
     margin-bottom: 1.125rem;
@@ -638,7 +638,7 @@
 .styles__basic4 {
   padding-top: 6.5rem;
   padding-bottom: 6.75rem;
-  background: url(/download-background.d3fc94a6.jpg) center center no-repeat;
+  background: url(download-background.d3fc94a6.jpg) center center no-repeat;
   background-size: cover; }
   .styles__basic4 .styles__textContainer {
     margin-bottom: 3.5rem;
@@ -700,7 +700,7 @@
 .styles__form {
   padding-top: 6.25rem;
   padding-bottom: 5.625rem;
-  background: url(/contact-background.ee8f3089.jpg) center bottom no-repeat;
+  background: url(contact-background.ee8f3089.jpg) center bottom no-repeat;
   background-size: cover; }
   .styles__form h2 {
     margin-bottom: 1.125rem;
