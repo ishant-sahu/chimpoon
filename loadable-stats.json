@@ -2,26 +2,26 @@
   "errors": [],
   "warnings": [],
   "version": "4.42.0",
-  "hash": "ffdd06b1fa40bbdeab14",
+  "hash": "861c97ca3e946e8133e4",
   "publicPath": "/chimpoon",
   "outputPath": "/mnt/codebase/chimpoon/public",
   "assetsByChunkName": {
     "Home": [
       "0.f38d81ae.css",
-      "0.d6abe981.js"
+      "0.43f2dd93.js"
     ],
     "UsersList": [
       "1.c7e38bde.css",
-      "1.b103581f.js"
+      "1.7bdfde10.js"
     ],
     "main": [
       "main.f30e5a78.css",
-      "main.9fce4aec.js"
+      "main.45f26042.js"
     ]
   },
   "assets": [
     {
-      "name": "0.d6abe981.js",
+      "name": "0.43f2dd93.js",
       "size": 58092,
       "chunks": [
         0
@@ -49,7 +49,7 @@
       "emitted": false
     },
     {
-      "name": "1.b103581f.js",
+      "name": "1.7bdfde10.js",
       "size": 2017,
       "chunks": [
         1
@@ -181,8 +181,8 @@
       "emitted": false
     },
     {
-      "name": "main.9fce4aec.js",
-      "size": 288509,
+      "name": "main.45f26042.js",
+      "size": 288401,
       "chunks": [
         2
       ],
@@ -361,7 +361,7 @@
       ],
       "assets": [
         "main.f30e5a78.css",
-        "main.9fce4aec.js"
+        "main.45f26042.js"
       ],
       "children": {},
       "childAssets": {}
@@ -374,7 +374,7 @@
       ],
       "assets": [
         "main.f30e5a78.css",
-        "main.9fce4aec.js"
+        "main.45f26042.js"
       ],
       "children": {},
       "childAssets": {}
@@ -385,7 +385,7 @@
       ],
       "assets": [
         "0.f38d81ae.css",
-        "0.d6abe981.js"
+        "0.43f2dd93.js"
       ],
       "children": {},
       "childAssets": {}
@@ -396,7 +396,7 @@
       ],
       "assets": [
         "1.c7e38bde.css",
-        "1.b103581f.js"
+        "1.7bdfde10.js"
       ],
       "children": {},
       "childAssets": {}
