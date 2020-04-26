@@ -1,48 +1,4 @@
-@-webkit-keyframes styles__sk-bouncedelay {
-  0%, 80%, 100% {
-    -webkit-transform: scale(0); }
-  40% {
-    -webkit-transform: scale(1); } }
-
-@keyframes styles__sk-bouncedelay {
-  0%, 80%, 100% {
-    transform: scale(0); }
-  40% {
-    transform: scale(1); } }
-
-.styles__spinnerWrapper {
-  position: fixed;
-  z-index: 999999;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  background: #2f2c3d; }
-  .styles__spinnerWrapper .styles__spinner {
-    position: absolute;
-    top: 50%;
-    /* centers the loading animation vertically one the screen */
-    left: 50%;
-    /* centers the loading animation horizontally one the screen */
-    width: 3.75rem;
-    height: 1.25rem;
-    margin: -0.625rem 0 0 -1.875rem;
-    /* is width and height divided by two */
-    text-align: center; }
-    .styles__spinnerWrapper .styles__spinner div {
-      display: inline-block;
-      width: 1rem;
-      height: 1rem;
-      border-radius: 100%;
-      background-color: #fff;
-      -webkit-animation: styles__sk-bouncedelay 1.4s infinite ease-in-out both;
-      animation: styles__sk-bouncedelay 1.4s infinite ease-in-out both; }
-    .styles__spinnerWrapper .styles__spinner .styles__bounce1 {
-      -webkit-animation-delay: -0.32s;
-      animation-delay: -0.32s; }
-    .styles__spinnerWrapper .styles__spinner .styles__bounce2 {
-      -webkit-animation-delay: -0.16s;
-      animation-delay: -0.16s; }
+@-webkit-keyframes _3TpZF{0%,80%,100%{-webkit-transform:scale(0)}40%{-webkit-transform:scale(1)}}@keyframes _3TpZF{0%,80%,100%{transform:scale(0)}40%{transform:scale(1)}}._2W7s5{position:fixed;z-index:999999;top:0;right:0;bottom:0;left:0;background:#2f2c3d}._2W7s5 ._2g_YE{position:absolute;top:50%;left:50%;width:3.75rem;height:1.25rem;margin:-0.625rem 0 0 -1.875rem;text-align:center}._2W7s5 ._2g_YE div{display:inline-block;width:1rem;height:1rem;border-radius:100%;background-color:#fff;-webkit-animation:_3TpZF 1.4s infinite ease-in-out both;animation:_3TpZF 1.4s infinite ease-in-out both}._2W7s5 ._2g_YE ._2MpvH{-webkit-animation-delay:-0.32s;animation-delay:-0.32s}._2W7s5 ._2g_YE ._3Kc1n{-webkit-animation-delay:-0.16s;animation-delay:-0.16s}
 
 /*****************************************
 Colors:
