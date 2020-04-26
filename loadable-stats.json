@@ -2,8 +2,8 @@
   "errors": [],
   "warnings": [],
   "version": "4.42.0",
-  "hash": "e64d8a22f9c77dc0c0f2",
-  "publicPath": "/",
+  "hash": "36f18253dce34de5024c",
+  "publicPath": "/chimpoon",
   "outputPath": "/mnt/codebase/chimpoon/public",
   "assetsByChunkName": {
     "Home": [
@@ -22,7 +22,7 @@
   "assets": [
     {
       "name": "Home.css",
-      "size": 26454,
+      "size": 26486,
       "chunks": [
         "Home"
       ],
@@ -186,7 +186,7 @@
     },
     {
       "name": "main.js",
-      "size": 1855773,
+      "size": 1855781,
       "chunks": [
         "main"
       ],
@@ -401,13 +401,13 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "/",
+      "publicPath": "/chimpoon",
       "outputPath": "/mnt/codebase/chimpoon/public",
       "assetsByChunkName": {},
       "assets": [
         {
           "name": "index.html",
-          "size": 566835,
+          "size": 566843,
           "chunks": [
             0
           ],
@@ -454,7 +454,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "/",
+      "publicPath": "/chimpoon",
       "outputPath": "/mnt/codebase/chimpoon/public",
       "assetsByChunkName": {},
       "assets": [],
@@ -496,7 +496,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "/",
+      "publicPath": "/chimpoon",
       "outputPath": "/mnt/codebase/chimpoon/public",
       "assetsByChunkName": {},
       "assets": [],
@@ -538,7 +538,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "/",
+      "publicPath": "/chimpoon",
       "outputPath": "/mnt/codebase/chimpoon/public",
       "assetsByChunkName": {},
       "assets": [],
@@ -580,7 +580,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "/",
+      "publicPath": "/chimpoon",
       "outputPath": "/mnt/codebase/chimpoon/public",
       "assetsByChunkName": {},
       "assets": [],
@@ -622,7 +622,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "/",
+      "publicPath": "/chimpoon",
       "outputPath": "/mnt/codebase/chimpoon/public",
       "assetsByChunkName": {},
       "assets": [],
@@ -664,7 +664,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "/",
+      "publicPath": "/chimpoon",
       "outputPath": "/mnt/codebase/chimpoon/public",
       "assetsByChunkName": {},
       "assets": [],
@@ -706,7 +706,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "/",
+      "publicPath": "/chimpoon",
       "outputPath": "/mnt/codebase/chimpoon/public",
       "assetsByChunkName": {},
       "assets": [],
@@ -748,7 +748,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "/",
+      "publicPath": "/chimpoon",
       "outputPath": "/mnt/codebase/chimpoon/public",
       "assetsByChunkName": {},
       "assets": [],
@@ -790,7 +790,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "/",
+      "publicPath": "/chimpoon",
       "outputPath": "/mnt/codebase/chimpoon/public",
       "assetsByChunkName": {},
       "assets": [],
@@ -832,7 +832,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "/",
+      "publicPath": "/chimpoon",
       "outputPath": "/mnt/codebase/chimpoon/public",
       "assetsByChunkName": {},
       "assets": [],
@@ -874,7 +874,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "/",
+      "publicPath": "/chimpoon",
       "outputPath": "/mnt/codebase/chimpoon/public",
       "assetsByChunkName": {},
       "assets": [],
@@ -916,7 +916,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "/",
+      "publicPath": "/chimpoon",
       "outputPath": "/mnt/codebase/chimpoon/public",
       "assetsByChunkName": {},
       "assets": [],
@@ -958,7 +958,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "/",
+      "publicPath": "/chimpoon",
       "outputPath": "/mnt/codebase/chimpoon/public",
       "assetsByChunkName": {},
       "assets": [],
@@ -1000,7 +1000,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "/",
+      "publicPath": "/chimpoon",
       "outputPath": "/mnt/codebase/chimpoon/public",
       "assetsByChunkName": {},
       "assets": [],
@@ -1042,7 +1042,7 @@
     {
       "errors": [],
       "warnings": [],
-      "publicPath": "/",
+      "publicPath": "/chimpoon",
       "outputPath": "/mnt/codebase/chimpoon/public",
       "assetsByChunkName": {},
       "assets": [],
