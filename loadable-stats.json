@@ -2,25 +2,57 @@
   "errors": [],
   "warnings": [],
   "version": "4.42.0",
-  "hash": "401211182ca4f2874ff7",
+  "hash": "38d670e79e316fbad0aa",
   "publicPath": "",
   "outputPath": "/mnt/codebase/chimpoon/public",
   "assetsByChunkName": {
+    "Home": [
+      "0.4ca2e2ff.css",
+      "0.59669887.js"
+    ],
     "UsersList": [
-      "0.c7e38bde.css",
-      "0.2461cd38.js"
+      "1.c7e38bde.css",
+      "1.97a5f58c.js"
     ],
     "main": [
-      "main.3c3887a4.css",
-      "main.4baf8808.js"
+      "main.f30e5a78.css",
+      "main.13237350.js"
     ]
   },
   "assets": [
     {
-      "name": "0.2461cd38.js",
-      "size": 2017,
+      "name": "0.4ca2e2ff.css",
+      "size": 15934,
       "chunks": [
         0
+      ],
+      "chunkNames": [
+        "Home"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "0.59669887.js",
+      "size": 58092,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "Home"
+      ],
+      "info": {
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "1.97a5f58c.js",
+      "size": 2017,
+      "chunks": [
+        1
       ],
       "chunkNames": [
         "UsersList"
@@ -31,10 +63,10 @@
       "emitted": false
     },
     {
-      "name": "0.c7e38bde.css",
+      "name": "1.c7e38bde.css",
       "size": 32,
       "chunks": [
-        0
+        1
       ],
       "chunkNames": [
         "UsersList"
@@ -149,10 +181,10 @@
       "emitted": false
     },
     {
-      "name": "main.3c3887a4.css",
-      "size": 35092,
+      "name": "main.13237350.js",
+      "size": 287743,
       "chunks": [
-        1
+        2
       ],
       "chunkNames": [
         "main"
@@ -163,10 +195,10 @@
       "emitted": false
     },
     {
-      "name": "main.4baf8808.js",
-      "size": 346237,
+      "name": "main.f30e5a78.css",
+      "size": 19158,
       "chunks": [
-        1
+        2
       ],
       "chunkNames": [
         "main"
@@ -325,11 +357,11 @@
   "entrypoints": {
     "main": {
       "chunks": [
-        1
+        2
       ],
       "assets": [
-        "main.3c3887a4.css",
-        "main.4baf8808.js"
+        "main.f30e5a78.css",
+        "main.13237350.js"
       ],
       "children": {},
       "childAssets": {}
@@ -338,28 +370,33 @@
   "namedChunkGroups": {
     "main": {
       "chunks": [
-        1
+        2
       ],
       "assets": [
-        "main.3c3887a4.css",
-        "main.4baf8808.js"
+        "main.f30e5a78.css",
+        "main.13237350.js"
       ],
       "children": {},
       "childAssets": {}
     },
     "Home": {
-      "chunks": [],
-      "assets": [],
+      "chunks": [
+        0
+      ],
+      "assets": [
+        "0.4ca2e2ff.css",
+        "0.59669887.js"
+      ],
       "children": {},
       "childAssets": {}
     },
     "UsersList": {
       "chunks": [
-        0
+        1
       ],
       "assets": [
-        "0.c7e38bde.css",
-        "0.2461cd38.js"
+        "1.c7e38bde.css",
+        "1.97a5f58c.js"
       ],
       "children": {},
       "childAssets": {}
